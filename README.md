@@ -1,8 +1,7 @@
 # Capital City Game 🌍
 
-A fun and interactive geography quiz game that tests your knowledge of world capital cities. Built with React 19, TypeScript, and Tailwind CSS.
+A fun and interactive geography quiz game that tests your knowledge of world capital cities. 
 
-![Capital City Game](https://img.shields.io/badge/React-19-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-blue)
 
 ## 🎮 About
 
