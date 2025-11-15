@@ -19,16 +19,7 @@ Test your geography knowledge by identifying capital cities from a list of five 
 - Responsive design that works on all devices
 - Instant feedback on your answers
 - Unlimited replays to improve your score
-- No login required - just start playing!
-
-## 🛠️ Tech Stack
-
-- **Frontend Framework:** React 19 with TypeScript
-- **Styling:** Tailwind CSS 4 with custom design tokens
-- **UI Components:** shadcn/ui component library
-- **Routing:** Wouter (lightweight React router)
-- **Build Tool:** Vite
-- **Font:** Poppins (Google Fonts)
+- No login required - just start playing!!
 
 ## 📦 Installation
 
