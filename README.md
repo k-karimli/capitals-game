@@ -59,7 +59,7 @@ pnpm dev
 5. If wrong, the game ends and shows your final score
 6. Click **"Play Again"** to try for a higher score!
 
-[**You can get access via this link**](https://capitals-game-eight.vercel.app/)
+[**You can get access via this link**](https://k-karimli-capitals-game.vercel.app/)
 
 
 
