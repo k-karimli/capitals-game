@@ -17,6 +17,17 @@ function Router() {
   );
 }
 
+
+const [highScore, setHighScore] = useState(0);
+
+useEffect(() => {
+  loadHighScore().then(setHighScore);
+}, []);
+
+setScore(finalScore);
+saveHighScore(finalScore);
+
+
 // NOTE: About Theme
 // - First choose a default theme according to your design style (dark or light bg), than change color palette in index.css
 //   to keep consistent foreground/background color across components
